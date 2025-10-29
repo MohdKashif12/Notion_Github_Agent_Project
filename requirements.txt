@@ -1,0 +1,4 @@
+# Libraries needed for API calls, JSON handling, and secure key loading
+requests
+openai
+python-dotenv
